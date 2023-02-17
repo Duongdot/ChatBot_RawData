@@ -1,0 +1,213 @@
+body {
+  font-family: "Courgette", cursive;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Courgette", cursive;
+  color: #009eff;
+}
+
+p {
+  color: #009eff;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: "Rubik Spray Paint";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 2% 15%;
+}
+
+/* Sections */
+
+.colored-section {
+  background-color: #fff;
+  color: #009eff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+  color: #009eff;
+}
+
+
+.navbar-brand {
+  /* font-family: "Ubuntu"; */
+  /* font-family: "Rubik Spray Paint"; */
+  font-family: "Courgette", cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+.nav-item-detail {
+  margin: 6px 0;
+}
+.nav-item:hover {
+  border-style: none;
+  border-bottom-style: inset;
+  border-color: #009eff;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  /* font-family: "Montserrat-Light"; */
+  font-family: "Courgette", cursive;
+}
+
+/* Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Section */
+
+#title {
+  background-color: #fff;
+  text-align: left;
+  align-content: justify;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+/* Title Image */
+
+.title-image {
+  width: 100%;
+}
+
+/* Features Section */
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 1%;
+}
+
+.heading-footer {
+  color: #69c5ff;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #009eff;
+}
+
+/* Testimonial Section */
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing Section */
+
+#pricing {
+  padding: 100px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+/* CTA Section */
+
+/* Footer Section */
+.Copyright {
+  padding: 20px 20px;
+  background-color: #009eff;
+  color: #fff;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+/* hr */
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 20px;
+  border-color: #009eff;
+  width: 10%;
+}
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+/* AboutUs */
+.h1AboutUs {
+  font-family: "Comfortaa", cursive;
+  color: #009eff;
+  font-size: 30px;
+  line-height: 39px;
+}
+.contentAboutUs {
+  color: #009eff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  font-family: Arial,"sans-serif";
+}
+.hrAbout{
+  border-style: none;
+  border-top-style: inset;
+  border-width: 2px;
+  border-color: #009eff;
+  width: 100%;
+}
+.container-fluid-about{
+  padding: 0 25%;
+}

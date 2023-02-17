@@ -1,0 +1,38 @@
+[
+    {
+        "title": "FrontEnd",
+        "value": "FrontEnd",
+        "children": [
+            {
+                "title": "HTML",
+                "value": "HTML"
+            },
+            {
+                "title": "CSS",
+                "value": "CSS"
+            },
+            {
+                "title": "Javascript",
+                "value": "Javascript"
+            }
+        ]
+    },
+    {
+        "title": "Devops",
+        "value": "Devops",
+        "children": [
+            {
+                "title": "AWS",
+                "value": "AWS"
+            },
+            {
+                "title": "GCP",
+                "value": "GCP"
+            },
+            {
+                "title": "AZURE",
+                "value": "AZURE"
+            }
+        ]
+    }
+]

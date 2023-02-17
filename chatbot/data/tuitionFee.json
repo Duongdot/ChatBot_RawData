@@ -1,0 +1,28 @@
+[
+    {
+        "fees": "\nFees and charges\n",
+        "amount": "\nAmount\n",
+        "notes": "\nNotes\n"
+    },
+    {
+        "fees": "\nAdmissions fee\n",
+        "amount": "\n4.600.000/student/entry\n",
+        "notes": "\n \n"
+    },
+    {
+        "fees": "\nPreparatory English program\n",
+        "amount": "\n11.800.000/level\n",
+        "notes": "\n5 levels (*)\n"
+    },
+    {
+        "fees": "\nDegree program\n",
+        "amount": "\n37.920.000/semester\n",
+        "notes": "\n9 semesters\n"
+    },
+    {
+        "description": "(*) Students take the English placement test for their current English level. Students who obtain IELTS 6.0+, TOEFL iBT 60+, Linguaskill 160+ or equivalent are granted direct entry to the degree program."
+    },
+    {
+        "regulationsFeeChanges": "Tuition fees are subject to annual review (increase/decrease). The increase will not exceed 10% each year. Greenwich Vietnam will publish information concerning fee changes if applicable."
+    }
+]

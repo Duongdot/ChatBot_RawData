@@ -1,0 +1,85 @@
+[
+  {
+    "titleScholarship": "Green Talent",
+    "content": {
+      "contentScholarship": "Eligibility: High school graduates in 2023 or previous years who have completed the admission process (submitting the application requirements, paying the admission fee, and other required fees) and meeting at least one of the following requirements:"
+    },
+    "listRequirement": [
+      "Requirement 1: A minimum GPA of 9.0/10 for Grade 12, 1st Semester of Grade 12 or Grade 11",
+      "Requirement 2: A minimum score of 27 for 3 subjects in Groups A, B, C, D, H, and V (including subgroups in compliance with the MOET regulations, and no subject score is multiplied)",
+      "Requirement 3: Winning consolation prizes or higher in national, and international contests; a third prize or higher in contests at provincial / centrally-run city level for the subjects taught at high school",
+      "Requirement 4: Valid IELTS 8.0 and above",
+      "Requirement 5: Achieving outstanding academic results or making great contributions to arts, culture, society, and sports activities."
+    ],
+    "scholarshipValue": [
+      "In addition, candidates must pass the university’s scholarship interview. By default, candidates who do not pass the Green Talent scholarship interview are awarded the Golden Compass scholarship.",
+      "Scholarship value: 30 – 50 – 70 – 100% of the total tuition fees (including the preparatory English program fee and degree program fee)"
+    ]
+  },
+  {
+    "titleScholarship": "Golden Compass",
+    "content": {
+      "contentScholarship": "Eligibility: High school graduates in 2023 or previous years who have completed the admission process (submitting the application requirements, paying the admission fee, and other required fees) and meeting at least one of the following requirements:"
+    },
+    "listRequirement": [
+      "Requirement 1: A minimum GPA of 8.0/10 for Grade 12, 1st Semester of Grade 12 or Grade 11",
+      "Requirement 2: A minimum score of 25 for 3 subjects in Groups A, B, C, D, H, and V (including subgroups in compliance with the MOET regulations, and no subject score is multiplied) ",
+      "Requirement 3: International A – Levels or International Baccalaureate Diploma",
+      "Requirement 4: Valid IELTS 6.0 and above"
+    ],
+    "scholarshipValue": [
+      "Hanoi and HCM Campus: 45 million VND",
+      "Da Nang and Can Tho Campus: 142 million VND"
+    ]
+  },
+  {
+    "titleScholarship": "Silver Compass",
+    "content": {
+      "contentScholarship": "Eligibility: High school graduates in 2023 or previous years who have completed the admission process (submitting the application requirements, paying the admission fee, and other required fees) and meeting at least one of the following requirements:"
+    },
+    "listRequirement": [
+      "Requirement 1: A minimum GPA of 7.5/10 for Grade 12, 1st Semester of Grade 12 or Grade 11",
+      "Requirement 2: A minimum score of 23 for 3 subjects in Groups A, B, C, D, H, and V (including subgroups in compliance with the MOET regulations, and no subject score is multiplied) "
+    ],
+    "scholarshipValue": [
+      "Hanoi and HCM Campus: 25 million VND",
+      "Da Nang and Can Tho Campus: 122 million VND"
+    ]
+  },
+  {
+    "titleScholarship": "Compass",
+    "content": {
+      "contentScholarship": "Eligibility: High school graduates in 2023 or previous years who have completed the admission process (submitting the application requirements, paying the admission fee, and other required fees) and meeting at least one of the following requirements:"
+    },
+    "listRequirement": [
+      "Requirement 1: A minimum GPA of 7.0/10 for Grade 12, 1st Semester of Grade 12 or Grade 11",
+      "Requirement 2: A minimum score of 18 for 3 subjects in Groups A, B, C, D, H, and V (including subgroups in compliance with the MOET regulations, and no subject score is multiplied)"
+    ],
+    "scholarshipValue": [
+      "Hanoi and HCM Campus: 15 million VND",
+      "Da Nang and Can Tho Campus: 112 million VND"
+    ]
+  },
+  {
+    "titleScholarship": "Big Ben",
+    "content": {
+      "contentScholarship": "Eligibility: High school graduates in 2023 or previous years who have completed the admission process (submitting the application requirements, paying the admission fee, and other required fees) to study one of three majors including Computing, AI, Graphic and Digital Design, and have a minimum score of 8.0/10 for Grade 12, 1st Semester of Grade 12 or Grade 11 in Mathematics, Physics or Chemistry."
+    },
+    "listRequirement": [],
+    "scholarshipValue": [
+      "Hanoi and HCM Campus: 35 million VND",
+      "Da Nang and Can Tho Campus: 132 million VND"
+    ]
+  },
+  {
+    "titleScholarship": "Fschool",
+    "content": {
+      "contentScholarship": "Eligibility: FPT High school graduates in 2023 or previous years who have completed the admission process (submitting the application requirements, paying the admission fee, and other required fees) and have a minimum score of 7.0/10 for Grade 12, 1st Semester of Grade 12 or Grade 11."
+    },
+    "listRequirement": [],
+    "scholarshipValue": [
+      "Hanoi and HCM Campus: 30 million VND",
+      "Da Nang and Can Tho Campus: 122 million VND"
+    ]
+  }
+]
